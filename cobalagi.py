@@ -1,2 +1,2 @@
 print('coba')
-print('coba2'_
+print('coba2')
