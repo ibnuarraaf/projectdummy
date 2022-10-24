@@ -1,0 +1,1 @@
+print('mas bondi lagi')
